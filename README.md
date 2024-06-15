@@ -2,8 +2,8 @@
 - 👀 I’m interested in aspectos de Educación 
 - 🌱 I’m currently learning sobre Diseños Educativos 
 - 💞️ I’m looking to collaborate on desarrollo de proyectos
-- 📫 How to reach me tegnologia educativa
-- 😄 Pronouns: ...
+- 📫 How to reach me marthahernandez
+- 😄 Pronouns: Martha
 - ⚡ Fun fact: ...
 
 <!---
