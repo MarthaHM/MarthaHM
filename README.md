@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on desarrollo de proyectos
 - 📫 How to reach me marthahernandez
 - 😄 Pronouns: Martha
-- ⚡ Fun fact: ...Me gusta coleccionar cajitas
+- ⚡ Fun fact: ...Me gusta escuchar el silencio
 
 <!---
 MarthaHM/MarthaHM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
